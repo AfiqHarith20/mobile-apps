@@ -1,4 +1,4 @@
-# flutter_complete_guild
+# Quid_Apps
 
 A new Flutter project.
 
