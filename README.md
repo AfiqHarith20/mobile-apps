@@ -1,4 +1,4 @@
-# Quid_Apps
+# Quiz_Apps
 
 A new Flutter project.
 
